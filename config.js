@@ -38,7 +38,7 @@ const config = {
   domain: "https://anti-sus.kibiljoe.engineer",
   plta: "ptla_vGb4XAoylbwKMyjqlX9a3omMsJ1727ZnDoFgXnMu7Qi",
   ptlc: "ptlc_FmAK3c8RX0PKNi5Oif2ZWeH0ZNW60IOG854IhAwFx8t",
-  egg: 15,
+  egg: 16,
   loc: 1,
   
   // Setting loc & egg di file products.js juga
