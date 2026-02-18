@@ -1,6 +1,6 @@
 # Nexus Telegram Bot
 
-This project is a complete starting point for a Telegram bot to sell Pterodactyl panels automatically.
+This project is a complete stbarting point for a Telegram bot to sell Pterodactyl panels automatically.
 
 ## Structure
 - index.js           - main bot file (Telegraf)
